@@ -1,6 +1,8 @@
 # DEVWKS-3928
 ## Ansible NDFC Collection
 
+![](https://github.com/bert-jan/DEVWKS-3928/blob/main/ndfc-overview.png)
+
 ## Introduction to Ansible Content Collections
 While a complete discussion around Ansible Content Collections is outside the scope of this Lab, this section provides some basic background information to ensure that you understand basic collection terms and functions. If you have used Ansible Content Collections in previous learning labs or other sessions, feel free to skip this page and move on.
 
@@ -38,3 +40,5 @@ In this example, the Ansible task will use the `cisco.dcnm.dcnm_vrf` module from
 
 # Ansible Documentation
 All documentation for the NDFC Ansible collection can be found on Ansible Galaxy. Navigate to [Ansible Galaxy](https://galaxy.ansible.com/cisco/dcnm) to see the list of modules and review the documentation.
+
+![](https://github.com/bert-jan/DEVWKS-3928/blob/main/galaxy_docs.png)
