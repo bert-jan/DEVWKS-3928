@@ -1,0 +1,5 @@
+---
+# This main.yml file includes two task files that will be used to
+# define and apply templates and policies
+- { include: template_telemetry.yml, tags: ['telemetry'] }
+- { include: template_variables.yml, tags: ['ntp_vars'] }
