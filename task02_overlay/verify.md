@@ -30,16 +30,16 @@ Once the fabric page is opened, verify that VRF and Networks are created:
 
 1. Click *VRFs* and verify **vrf_devnet** is created
 
-![](https://github.com/bert-jan/DEVWKS-3928/blob/main/task02/vrf.png)
+![](https://github.com/bert-jan/DEVWKS-3928/blob/main/task02_overlay/vrf.png)
 
 2. Click VRF attachments and verify **vrf_devnet** is attached to both leaf switches.
 
-![](https://github.com/bert-jan/DEVWKS-3928/blob/main/task02/vrf_attach.png)
+![](https://github.com/bert-jan/DEVWKS-3928/blob/main/task02_overlay/vrf_attach.png)
 
 3. Click Networks and verify **network_devnet1** and **network_devnet2** are created
 
-![](https://github.com/bert-jan/DEVWKS-3928/blob/main/task02/network.png)
+![](https://github.com/bert-jan/DEVWKS-3928/blob/main/task02_overlay/network.png)
 
 4. Click *Network attachments* and verify **network_devnet1** and **network_devnet2** are attached to both leaf switches.
 
-![](https://github.com/bert-jan/DEVWKS-3928/blob/main/task02/network_attach.png)
+![](https://github.com/bert-jan/DEVWKS-3928/blob/main/task02_overlay/network_attach.png)
